@@ -1,0 +1,2 @@
+INSERT INTO user (username, name, email, gender, picture, country, state, city)
+VALUES ('jdoe', 'John Doe', 'jdoe@example.com', 'male', 'http://example.com/jdoe.jpg', 'USA', 'California', 'Los Angeles');
